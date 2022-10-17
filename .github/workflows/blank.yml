@@ -46,11 +46,17 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_languages_skipped: lenovo-s6000-osc, BetterDiscordPlugins
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_skipped: lenovo-s6000-osc
+          plugin_lines_history_limit: 2
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_lines_skipped: lenovo-s6000-osc, BetterDiscordPlugins
           plugin_notable: yes
-          plugin_notable_repositories: yes
+          plugin_notable_from: organization
+          plugin_notable_self: yes
+          plugin_notable_types: commit
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
@@ -65,3 +71,35 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 4
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_size: 24
+          plugin_sponsors_title: Sponsor Me!
+          plugin_support: yes
