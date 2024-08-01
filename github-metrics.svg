@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2046" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1730" class="">
     <defs>
         <style/>
     </defs>
@@ -34,8 +34,8 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -343,12 +343,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 24 commits)</small>
+                    <small class="h-details">(computed from last 26 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.1 characters per line of code written</li>
+                        <li>Has approximately 27.8 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -429,8 +429,8 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -495,8 +495,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -521,12 +521,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 3.9736606089984488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 5.025870001198345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.3796345487024937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.24558156427854608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -608,6 +608,46 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">dippyshere/TheScarlettExpress</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/dialogue</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af865d0</div>
+                                        <div class="message">Merge branch 'develop' into feature/dialogue</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">dippyshere/TheScarlettExpress</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#189bc98</div>
+                                        <div class="message">Merge branch 'feature/dialogue' into develop</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">dippyshere/TheScarlettExpress</span>
                                     </div>
@@ -641,132 +681,6 @@
                                     <div class="commit">
                                         <div class="sha">#3a18063</div>
                                         <div class="message">fix some stove pickup jankiness</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 49 commits in
-                                        <span class="repo">dippyshere/TheScarlettExpress</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/stove</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ccd8083</div>
-                                        <div class="message">now unable to move when shop and map</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05122e3</div>
-                                        <div class="message">working shop (mostly)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcf3fd7</div>
-                                        <div class="message">an attempt at the sideview "go"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ad82f4</div>
-                                        <div class="message">deactivate decorate UI canvas
-
-hayley</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff22fbe</div>
-                                        <div class="message">Merge pull request #4 from dippyshere/feature/fonts
-
-Extra fonts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eca9285</div>
-                                        <div class="message">Extra fonts
-
-Play, graffiti</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9348296</div>
-                                        <div class="message">rid the world of particle system</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c81721</div>
-                                        <div class="message">fix decorating cameras Again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#088285e</div>
-                                        <div class="message">deactivate decorating canvas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1a832a</div>
-                                        <div class="message">fix decorating camera again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ec346e</div>
-                                        <div class="message">Merge pull request #3 from dippyshere/feature/fonts
-
-Added 2 Fonts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#412b658</div>
-                                        <div class="message">Added 2 Fonts
-
-Added one font for the Main Menu and one font for train station names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2ba256</div>
-                                        <div class="message">gnagnagrg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d641b98</div>
-                                        <div class="message">fixed decorating cameras</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f7f34b</div>
-                                        <div class="message">wouldnt be an itch build without issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#712cad3</div>
-                                        <div class="message">move sterling to kitchen + freecam in train</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#362fc0e</div>
-                                        <div class="message">kitchen greybox</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b602f61</div>
-                                        <div class="message">Merge branch 'feature/station-movement' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4eebe8</div>
-                                        <div class="message">fix camera in stations + sterling!!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b0be59</div>
-                                        <div class="message">Merge branch 'feature/stove' into develop</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dippyshere/TheScarlettExpress</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40f4a39</div>
-                                        <div class="message">fix passenger happiness display on clipboard</div>
                                     </div>
                                 </div>
                             </section>
@@ -900,7 +814,7 @@ Added one font for the Main Menu and one font for train station names</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6789869952087528 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7638603696098469 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1000,7 +914,7 @@ Added one font for the Main Menu and one font for train station names</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.01m out of 141m users</span>
+                                    <span class="gh">ranked 1.02m out of 141m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -1170,7 +1084,7 @@ Added one font for the Main Menu and one font for train station names</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 536k out of 216m repositories</span>
+                                    <span class="gh">ranked 536k out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -1266,7 +1180,7 @@ Added one font for the Main Menu and one font for train station names</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 399k out of 216m repositories</span>
+                                    <span class="gh">ranked 399k out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">89</div>
                                     </div>
@@ -1553,7 +1467,7 @@ Added one font for the Main Menu and one font for train station names</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2024, 11:05:32 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 11:24:59 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
