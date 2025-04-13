@@ -1,7 +1,9 @@
 <p align="center">
-	<strong>Hi there 👋</strong>
+	<strong>Hi! 👋</strong>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dippyshere/dippyshere/main/github-metrics.svg" />
+	<picture>
+		<img src="https://raw.githubusercontent.com/dippyshere/dippyshere/main/github-metrics.svg">
+	</picture>
 </p>
